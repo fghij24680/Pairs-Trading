@@ -4,7 +4,7 @@ This is my graduation project of computer science, B.Eng.
 
 Thesis info:
 
-## Implementation and Optimization of Pairs Trading Strategy
+## _Implementation and Optimization of Pairs Trading Strategy_
 
 With the continuous opening of China's financial market and the development of the Internet and big data, quantitative trading has gradually emerged in China's market and become an indispensable part of the financial market. With the popularization of quantitative trading, investors' demand for quantitative development is increasing, and the realization of various quantitative strategies is accelerating.
 
